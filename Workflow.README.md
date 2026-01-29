@@ -12,7 +12,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 - Visualized insights for data-driven decisions
 
 ## 📂 Dataset
-Folder: `data/`
+Folder: `customer data analysis.csv/`
 
 ## 📈 Visualizations
 Folder: `plots/`
